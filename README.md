@@ -23,7 +23,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
   </a>
   <a href="https://www.autohotkey.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/uiwjs/file-icons/blob/master/icon/autohotkey.svg" alt="AHK" width="40" height="40" title="AHK"/>
+    <img src="https://github.com/uiwjs/file-icons/blob/master/icon/autohotkey.svg" alt="AutoHotKey" width="40" height="40" title="AutoHotKey"/>
   </a>
 </p>
 
